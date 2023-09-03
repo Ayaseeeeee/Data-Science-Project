@@ -9,3 +9,4 @@ image: https://drive.google.com/drive/folders/1ZpYeblBJr9FRTfMc-tPw5I91R22Cw6hK?
 model: https://huggingface.co/Yukarii/Test01/tree/main
 
 Demo Video: https://youtu.be/ybSszprqr8M
+Powerpoint: https://docs.google.com/presentation/d/1e2WIcedDH6W34TecldgZ5VBdVsiuCGlm/edit?usp=drive_link&ouid=108330900778439349699&rtpof=true&sd=true
